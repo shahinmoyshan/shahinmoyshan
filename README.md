@@ -30,7 +30,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-<img src="https://komarev.com/ghpvc/?username=developeromarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="developeromarfaruk" />
+<img src="https://komarev.com/ghpvc/?username=shahinmoyshan&label=Profile%20views&color=0e75b6&style=flat" alt="developeromarfaruk" />
 
 
 </div>
