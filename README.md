@@ -69,7 +69,7 @@ I'm **Shahin**, a full-stack architect passionate about crafting robust web solu
 [![Open Issues](https://img.shields.io/github/issues-raw/tinymvc/tinymvc?style=flat-square)](https://github.com/tinymvc/tinymvc/issues)
 
 _A lightweight PHP MVC framework for rapid application development_  
-🔥 Features: ORM, RESTful routing, Simple-MVC pattern.  
+🔥 Features: ORM, RESTful routing, Simple MVC architecture.  
 📦 Perfect for: Medium-scale applications, API backends, PHP+JS SPA.
 
 #### [CoPlay - Free Movies Online](https://coplay.evolesoft.com/) 
