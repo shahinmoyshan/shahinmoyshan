@@ -54,9 +54,9 @@ I'm **Shahin**, a full-stack architect passionate about crafting robust web solu
 - **WordPress Mastery**: Custom Themes, Plugin Development, Performance Optimization
 
 #### WordPress Ecosystem
-- **E-Commerce Plugins**: Custom payment gateways integration
-- **Enterprise Themes**: Custom/Tailored/Unique Theme for your Brand
-- **Plugins**: Integrating Custom Logic/Features Using WordPress Plugins.
+- **E-Commerce Plugins**: Custom payment gateways integration, Shipping, Tax etc
+- **Enterprise Themes**: Custom/Tailored/Unique Theme Development for your Brand
+- **Plugins**: Integrating Custom Logic/Features in your wordpress website. 
 
 ---
 
@@ -71,6 +71,7 @@ I'm **Shahin**, a full-stack architect passionate about crafting robust web solu
 _A lightweight PHP MVC framework for rapid application development_  
 🔥 Features: ORM, RESTful routing, Simple MVC architecture.  
 📦 Perfect for: Medium-scale applications, API backends, PHP+JS SPA.
+
 
 #### [CoPlay - Free Movies Online](https://coplay.evolesoft.com/) 
 [![Latest Version](https://img.shields.io/github/v/release/shahinmoyshan/coplay?style=flat-square)](https://github.com/shahinmoyshan/coplay/releases)
@@ -108,10 +109,10 @@ _PHP Free Online Movies & TV Series Streaming Script_
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahinmoyshan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shahin.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahin.moyshan2@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=gmail&logoColor=white)](https://wa.me/8801969467747)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahin_m)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahin.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moyshan2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moyshan.netlify.app)
 
 ---
 
